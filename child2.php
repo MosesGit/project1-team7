@@ -1,4 +1,4 @@
-<?php $parentTitle = "ParentTitle"; $currentTitle = "CurrentTitle"; $separator = " - "; include "inc/top.inc";?>
+<?php $parentTitle = "ParentTitle"; $currentTitle = "CurrentTitle 2"; $separator = " - "; include "inc/top.inc";?>
 
 		<?php include "inc/nav.inc";?>
 
