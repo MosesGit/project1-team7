@@ -1,5 +1,5 @@
 <footer class="col-md-12">
 
-			<p></p>
+			<p>Footer</p>
 
 		</footer>
