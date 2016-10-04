@@ -7,7 +7,46 @@
 /*	*************************************
 	Layout
 	************************************* */
-
-footer {
+body{
+	background-color:rgb(245,255,255);
+	font-family:Courier New, Helvetica, sans-serif;
+	color:rgb(255,255,232);
+	background-image:url(../images/animal-umbreon-pokemon.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.container{
+	margin:0 auto;
+	max-width:960px;
+}
+h1{
+	margin:0px 0px 0px 0px;
+	color:rgb(255,150,0);
+	border-bottom:1px solid rgb(86,0,255);
+}
+h2{
+	margin:0px 0px 0px 0px;
+}
+img{
+	float:right;
+	margin-left:15px;
+	margin-bottom:10px;
+}
+a{
+	color:rgb(255,150,0);
+	text-decoration:none;
+}
+a:hover{
+	color:#7D9C9F;
+}
+footer{
+	border-top:1px solid #AD235E;
 	margin-top: 20px;
 }
+article{
+	
+	padding:25px;
+}
+aside
+｛
+｝
