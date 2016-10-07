@@ -1,8 +1,22 @@
 /*	*************************************
 	Modules
 	************************************* */
+.navbar-brand {
+	padding: 0px;
+	display: flex;
+	align-items: center;
+	margin-bottom: 0;
+}
 
+.navbar-brand > img {
+	height: 100%;
+	width: auto;
+	padding: 5px 10px 5px 0;
+}
 
+.navbar-inverse .navbar-toggle {
+	border: none;
+}
 
 /*	*************************************
 	Layout
@@ -14,6 +28,7 @@ body{
 	background-image:url(../images/animal-umbreon-pokemon.jpg);
 	background-repeat:no-repeat;
 	background-size:cover;
+	margin-top: 80px;
 }
 .container{
 	margin:0 auto;
@@ -36,17 +51,17 @@ a{
 	color:rgb(255,150,0);
 	text-decoration:none;
 }
-a:hover{
+a:hover {
 	color:#7D9C9F;
 }
 footer{
 	border-top:1px solid #AD235E;
 	margin-top: 20px;
 }
-article{
-	
-	padding:25px;
+
+@media only screen and (min-width: 768px) {
+  .navbar > .container .navbar-brand,
+  .navbar > .container-fluid .navbar-brand {
+    margin-left: 0;
+  }
 }
-aside
-｛
-｝
