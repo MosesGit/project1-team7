@@ -7,9 +7,12 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand" href="./">
-						<img class="navbar-brand" src="images/logo.png" alt="Pokémon"><?php echo $parentTitle;?>
-					</a>
+					<h1>
+						<a class="navbar-brand" href="./">
+							<img class="navbar-brand" src="images/logo.png" alt="Pokémon">
+							<?php echo $parentTitle;?>
+						</a>
+					</h1>
 				</div>
 				<div class="collapse navbar-collapse navbar-ex1-collapse">
 					<ul class="nav navbar-nav navbar-right">

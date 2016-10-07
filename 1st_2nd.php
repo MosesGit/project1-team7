@@ -6,11 +6,11 @@
 			
 			<h2>1st-2nd Generations</h2>
 			
-			<img class="img-responsive" src="images/Pokemon_generation_1_sheet_by_vaawl-d3iizr2.jpg" alt="1stGen">
+			<img class="img-responsive" src="images/1st.png" alt="1stGen">
 			
 			<p>The Pokémon series began with the release of Pocket Monsters Red and Green for the Game Boy in Japan. When these games proved extremely popular, an enhanced Blue version was released sometime after, and the Blue version was reprogrammed asPokémon Red and Blue for international release. The original Green version was never released outside Japan. Afterwards, a second enhanced remake, Pokémon Yellow, was released to use the color palette of the Game Boy Color and more of a stylistic resemblance to the popular Pokémon anime. This first generation of games introduced the original 151 species of Pokémon (in National Pokédex order, encompassing all Pokémon from Bulbasaur to Mew), as well as the basic game concepts of capturing, training, battling and trading Pokémon with both computer and human players.</p>
 
-			<img class="img-responsive" src="images/pokemon__generation_2_by_awesomehippie-d6q5h9t.png" alt="1stGen">
+			<img class="img-responsive" src="images/2nd.png" alt="2ndGen">
 
 			<p>The second generation of Pokémon video games began in 1999 with the Japanese release of Pokémon Gold and Silver for the Game Boy Color, with Australia and North America getting the game in October 2000 and European release date of April 2001. Like the previous generation, an enhanced version titled Pokémon Crystal was later released.</p>
 

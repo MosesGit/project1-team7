@@ -11,7 +11,7 @@
 					<p>We are CSC174 students who wants to create a reference page for pokemon lovers.</p>
 				</article>
 				<div class="parallax-here parallax2">
-					<h2>Who are we</h2>
+					<h2>Who we are</h2>
 				</div>
 				<article>
 					<p class="profile-text">
@@ -32,16 +32,6 @@
 				</article>
 			</div>
 		</div>
-
-		<aside class="col-md-4">
-
-			<h2>Aside heading</h2>
-			
-			<img src="xxx.png" alt="xxx">
-
-			<p>Aside paragraph</p>
-
-		</aside>
 
 		<?php include "inc/footer.inc";?>
 
