@@ -1,10 +1,10 @@
-<?php $parentTitle = "Pokémon Generations Wiki"; $currentTitle = "5th-7th Generations"; $separator = " - "; include "inc/top.inc";?>
+<?php $parentTitle = "Pokémon Generation Wiki"; $currentTitle = "Generations V-VII"; $separator = " - "; include "inc/top.inc";?>
 
 		<?php include "inc/nav.inc";?>
 
 		<article class="col-md-12">
 			
-			<h2>5th-7th Generations</h2>
+			<h2>Generations V-VII</h2>
 			
 			<img class="img-responsive" src="images/5th.png" alt="5thGen">
 			
@@ -22,7 +22,7 @@
 
 			<p>During a Nintendo Direct presentation on February 26, 2016, two new Pokémon titles were announced: Pokémon Sun and Moon. The first installments in the seventh generation of Pokémon games, they are set to be released on 18 November 2016. The games will be compatible with other Nintendo 3DS titles, including Pokémon X and Y; Pokémon Omega Ruby and Alpha Sapphire; and the Virtual Console re-releases of Pokémon Red, Blue, and Yellow.</p>
 
-			<p>In July 2016, Niantic & Nintendo released a free-to-play augmented-reality game titled Pokémon Go which was released on Android & iOS devices. Upon its release, the game has become a global phenomenon. Unfortunately, the game has also received a lot of negative criticism.</p>
+			<p>In July 2016, Niantic &amp; Nintendo released a free-to-play augmented-reality game titled Pokémon Go which was released on Android & iOS devices. Upon its release, the game has become a global phenomenon. Unfortunately, the game has also received a lot of negative criticism.</p>
 			
 		</article>
 

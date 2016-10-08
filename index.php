@@ -1,4 +1,4 @@
-<?php $parentTitle = "Pokémon Generations Wiki"; include "inc/top.inc";?>
+<?php $parentTitle = "Pokémon Generation Wiki"; include "inc/top.inc";?>
 		
 		<?php include "inc/nav.inc";?>
 
@@ -7,9 +7,9 @@
 			<h2>Overview</h2>
 			
 			<div class="slider">
-				<img class="img-responsive" src="images/landscape-1456483171-pokemon2.jpg">
-				<img class="img-responsive" src="images/poke_group.png">
-				<img class="img-responsive" src="images/2222.jpg">
+				<img class="img-responsive" src="images/poke1.png">
+				<img class="img-responsive" src="images/poke2.png">
+				<img class="img-responsive" src="images/poke3.png">
 			</div>
 
 			

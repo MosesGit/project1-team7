@@ -1,10 +1,10 @@
-<?php $parentTitle = "Pokémon Generations Wiki"; $currentTitle = "3th-4th Generations"; $separator = " - "; include "inc/top.inc";?>
+<?php $parentTitle = "Pokémon Generation Wiki"; $currentTitle = "Generations III-IV"; $separator = " - "; include "inc/top.inc";?>
 
 		<?php include "inc/nav.inc";?>
 
 		<article class="col-md-12">
 			
-			<h2>3rd-4th Generations</h2>
+			<h2>Generations III-IV</h2>
 			
 			<img class="img-responsive" src="images/3rd.png" alt="3rdGen">
 			

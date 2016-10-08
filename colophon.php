@@ -8,7 +8,7 @@
 					<h2>What we do</h2>
 				</div>
 				<article>
-					<p>We are CSC174 students who wants to create a reference page for pokemon lovers.</p>
+					<p>We are CSC174 students who wants to create a reference page for Pokémon lovers.</p>
 				</article>
 				<div class="parallax-here parallax2">
 					<h2>Who we are</h2>
@@ -21,13 +21,13 @@
 						<span class="profile-name"> Ming Hang Tam </span> - Framework Wrangler
 					</p>
 					<p class="profile-text">
-						<span class="profile-name"> Yichen Lu </span> - Content Master and interaction Designer
+						<span class="profile-name"> Yichen Lu </span> - Content Master and Interaction Designer
 					</p>
 					<p class="profile-text">
 						<span class="profile-name"> Xingyi Li </span> - CSS Artist
 					</p>
 					<p class="profile-text">
-						<span class="profile-name"> Jimmi Chen </span> - Javascript Engineer
+						<span class="profile-name"> Guanghong Chen </span> - Javascript Engineer
 					</p>
 				</article>
 			</div>

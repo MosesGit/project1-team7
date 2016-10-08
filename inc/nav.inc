@@ -16,9 +16,9 @@
 				</div>
 				<div class="collapse navbar-collapse navbar-ex1-collapse">
 					<ul class="nav navbar-nav navbar-right">
-						<li><a href="1st_2nd.php">1st-2nd</a></li>
-						<li><a href="3rd_4th.php">3rd-4th</a></li>
-						<li><a href="5th_7th.php">5th-7th</a></li>
+						<li><a href="gen_1-2.php">I-II</a></li>
+						<li><a href="gen_3-4.php">III-IV</a></li>
+						<li><a href="gen_5-7.php">V-VII</a></li>
 						<li><a href="colophon.php">Colophon</a></li>
 					</ul>
 				</div>
