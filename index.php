@@ -1,4 +1,4 @@
-<?php $parentTitle = "Pokémon Generation Wiki"; include "inc/top.inc";?>
+<?php $parentTitle = "Pokémon Generations Wiki"; include "inc/top.inc";?>
 		
 		<?php include "inc/nav.inc";?>
 
