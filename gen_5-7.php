@@ -1,4 +1,4 @@
-<?php $parentTitle = "Pokémon Generation Wiki"; $currentTitle = "Generations V-VII"; $separator = "&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;"; include "inc/top.inc";?>
+<?php $parentTitle = "Pokémon Generations Wiki"; $currentTitle = "Generations V-VII"; $separator = " | "; include "inc/top.inc";?>
 
 		<?php include "inc/nav.inc";?>
 
@@ -18,11 +18,11 @@
 
 			<p>This generation introduced a total of 72 new Pokémon, the new Fairy type, Mega Evolution, the Kalos region, Trainer customization, Super Training, and three new battle modes: Sky Battles, Horde Encounters, and Inverse Battle. This generation is also the first to be compatible with Pokémon Bank.</p>
 
-			<img class="img-responsive" src="images/pokemon_sun_and_moon_starters_by_lani_senpai-da24v2o.jpg" alt="7thGen">
+			<img class="img-responsive" src="images/pokemon_sun_and_moon.jpg" alt="7thGen">
 
 			<p>During a Nintendo Direct presentation on February 26, 2016, two new Pokémon titles were announced: Pokémon Sun and Moon. The first installments in the seventh generation of Pokémon games, they are set to be released on 18 November 2016. The games will be compatible with other Nintendo 3DS titles, including Pokémon X and Y; Pokémon Omega Ruby and Alpha Sapphire; and the Virtual Console re-releases of Pokémon Red, Blue, and Yellow.</p>
 
-			<p>In July 2016, Niantic &amp; Nintendo released a free-to-play augmented-reality game titled Pokémon Go which was released on Android & iOS devices. Upon its release, the game has become a global phenomenon. Unfortunately, the game has also received a lot of negative criticism.</p>
+			<p>In July 2016, Niantic & Nintendo released a free-to-play augmented-reality game titled Pokémon Go which was released on Android & iOS devices. Upon its release, the game has become a global phenomenon. Unfortunately, the game has also received a lot of negative criticism.</p>
 			
 		</article>
 

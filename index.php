@@ -1,4 +1,4 @@
-<?php $parentTitle = "Pokémon Generation Wiki"; include "inc/top.inc";?>
+<?php $parentTitle = "Pokémon Generations Wiki"; include "inc/top.inc";?>
 		
 		<?php include "inc/nav.inc";?>
 
@@ -7,12 +7,10 @@
 			<h2>Overview</h2>
 			
 			<div class="slider">
-				<img class="img-responsive" src="images/poke1.png">
-				<img class="img-responsive" src="images/poke2.png">
-				<img class="img-responsive" src="images/poke3.png">
+				<img class="img-responsive" src="images/poke1.png" alt="poke1">
+				<img class="img-responsive" src="images/poke2.png" alt="poke2">
+				<img class="img-responsive" src="images/poke3.png" alt="poke3">
 			</div>
-
-			
 
 			<p>All of the licensed Pokémon properties overseen by The Pokémon Company are divided roughly by generation. These generations are roughly chronological divisions by release; when an official sequel in the main role-playing game series is released that features new Pokémon, characters, and gameplay concepts, that sequel is considered the start of a new generation of the franchise. The main games and their spin-offs, the anime, manga and trading card game are all updated with the new Pokémon properties each time a new generation begins. The franchise began its sixth generation with Pokémon X and Y, which were released worldwide on October 12, 2013.</p>
 
@@ -20,9 +18,9 @@
 		
 		<aside class="col-md-4">
 
-			<h2>What is Pokémon? </h2>
+			<h2>What is Pokémon?</h2>
 
-			<img class="img-responsive" src="images/English_Pokemon_logo.svg.png" alt="logo">
+			<img class="img-responsive" src="images/pokemon_logo.png" alt="logo">
 
 			<p>Pokémon is a series of video games developed by Game Freak and Creatures Inc. and published by Nintendo as part of the Pokémon media franchise. First released in 1996 in Japan for the Game Boy, the main series of role-playing video games (RPGs) has continued on each generation of Nintendo's handhelds.</p>
 
