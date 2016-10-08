@@ -1,4 +1,4 @@
-<?php $parentTitle = "Pokémon Generation Wiki"; $currentTitle = "Generations V-VII"; $separator = " - "; include "inc/top.inc";?>
+<?php $parentTitle = "Pokémon Generation Wiki"; $currentTitle = "Generations V-VII"; $separator = "&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;"; include "inc/top.inc";?>
 
 		<?php include "inc/nav.inc";?>
 
