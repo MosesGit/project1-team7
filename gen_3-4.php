@@ -5,12 +5,16 @@
 		<article class="col-md-12">
 			
 			<h2>Generations III-IV</h2>
+
+			<h3>Generation III</h3>
 			
 			<img class="img-responsive" src="images/3rd.png" alt="3rdGen">
 			
 			<p>Pokémon entered its third generation with the 2002 release of Pokémon Ruby and Sapphire for Game Boy Advance and continued with the Game Boy Advance remakes of Pokémon Red and Green, Pokémon FireRed and LeafGreen (Red and Green representing the original Japanese first generation games; territories outside Japan instead saw releases of Red and Blue). An enhanced remake of Pokémon Ruby and Sapphire titled Pokémon Emerald followed after.</p>
 
 			<p>The third generation introduced 135 new Pokémon (starting with Treecko and ending with Deoxys) for a total of 386 species. It also features a more visually detailed environment compared to previous games, "natures" which affect Pokémon stats, a new 2-on-2 Pokémon battling mechanic, a special ability system applying to each Pokémon in battle, the Pokémon Contest sub-game, the new region of Hoenn, and the ability to select the protagonist's gender. However, this generation also garnered some criticism for leaving out several gameplay features, including the day-and-night system introduced in the previous generation (which was removed due to internal-battery save problems), and it was also the first installment that encouraged the player to collect merely a selected assortment of the total number of Pokémon rather than every existing species (202 out of 386 species are catchable in the Ruby and Sapphire versions).</p>
+
+			<h3>Generation IV</h3>
 
 			<img class="img-responsive" src="images/4th.png" alt="4thGen">
 

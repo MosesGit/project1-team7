@@ -5,10 +5,14 @@
 		<article class="col-md-12">
 			
 			<h2>Generations I-II</h2>
+
+			<h3>Generation I</h3>
 			
 			<img class="img-responsive" src="images/1st.png" alt="1stGen">
 			
 			<p>The Pokémon series began with the release of Pocket Monsters Red and Green for the Game Boy in Japan. When these games proved extremely popular, an enhanced Blue version was released sometime after, and the Blue version was reprogrammed asPokémon Red and Blue for international release. The original Green version was never released outside Japan. Afterwards, a second enhanced remake, Pokémon Yellow, was released to use the color palette of the Game Boy Color and more of a stylistic resemblance to the popular Pokémon anime. This first generation of games introduced the original 151 species of Pokémon (in National Pokédex order, encompassing all Pokémon from Bulbasaur to Mew), as well as the basic game concepts of capturing, training, battling and trading Pokémon with both computer and human players.</p>
+
+			<h3>Generation II</h3>
 
 			<img class="img-responsive" src="images/2nd.png" alt="2ndGen">
 
