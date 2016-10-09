@@ -24,7 +24,7 @@
 
 			<h3>Generation VII</h3>
 
-			<img class="img-responsive" src="images/pokemon_sun_and_moon.jpg" alt="7thGen">
+			<img class="img-responsive" src="images/7th.png" alt="7thGen">
 
 			<p>During a Nintendo Direct presentation on February 26, 2016, two new Pokémon titles were announced: Pokémon Sun and Moon. The first installments in the seventh generation of Pokémon games, they are set to be released on 18 November 2016. The games will be compatible with other Nintendo 3DS titles, including Pokémon X and Y; Pokémon Omega Ruby and Alpha Sapphire; and the Virtual Console re-releases of Pokémon Red, Blue, and Yellow.</p>
 
