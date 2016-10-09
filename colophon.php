@@ -1,37 +1,34 @@
-<?php $parentTitle = "Pokémon Generations Wiki"; $currentTitle = "Colophon"; $separator = " | "; include "inc/top.inc";?>
+<?php $parentTitle = "Pokémon Generations"; $currentTitle = "Colophon"; $separator = " | "; include "inc/top.inc";?>
 
 		<?php include "inc/nav.inc";?>
 
-		<div class="col-md-8">
-			<div class="row">
-				<div class="parallax-here parallax1">
-					<h2>What we do</h2>
-				</div>
-				<article>
-					<p>We are CSC174 students who wants to create a reference page for Pokémon lovers.</p>
-				</article>
-				<div class="parallax-here parallax2">
-					<h2>Who we are</h2>
-				</div>
-				<article>
-					<p class="profile-text">
-						<span class="profile-name"> Moses Chen </span> - Architect
-					</p>
-					<p class="profile-text">
-						<span class="profile-name"> Ming Hang Tam </span> - Framework Wrangler
-					</p>
-					<p class="profile-text">
-						<span class="profile-name"> Yichen Lu </span> - Content Master and Interaction Designer
-					</p>
-					<p class="profile-text">
-						<span class="profile-name"> Xingyi Li </span> - CSS Artist
-					</p>
-					<p class="profile-text">
-						<span class="profile-name"> Guanghong Chen </span> - Javascript Engineer
-					</p>
-				</article>
-			</div>
-		</div>
+		<article class="col-md-12">
+			
+			<h2>What we do</h2>
+
+			<p>We are CSC174 students who wants to create a reference page for Pokémon lovers.</p>
+
+			<h2>Who we are</h2>
+
+			<p>Moses Chen - Architect</p>
+
+			<p>Ming Hang Tam - Framework Wrangler</p>
+
+			<p>Yichen Lu - Content Master and Interaction Designer</p>
+
+			<p>Xingyi Li - CSS Artist</p>
+
+			<p>Guanghong Chen - Javascript Engineer</p>
+
+			<h2>Technologies used</h2>
+
+			<p></p>
+
+			<h2>Source of the content</h2>
+
+			<p><a href="https://en.wikipedia.org/wiki/Pok%C3%A9mon_(video_game_series)#Generations">Pokémon (video game series) - Wikipedia, the free encyclopedia</a></p>
+
+		</article>
 
 		<?php include "inc/footer.inc";?>
 
