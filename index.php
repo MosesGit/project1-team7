@@ -65,6 +65,12 @@
 	</div><!--.container-->
 	
 	<?php include "inc/scripts.inc";?>
+	<script src="js/slider.min.js"></script>
+	<script>
+		jQuery(function($) {
+			$('.slider').sss();
+		});
+	</script>
 	
 	</body>
 
