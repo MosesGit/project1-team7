@@ -17,7 +17,7 @@
 				<li>Ming Hang Tam - Framework wrangler</li>
 				<li>Yichen Lu - Content master and interaction designer</li>
 				<li>Xingyi Li - CSS artist</li>
-				<li>Guanghong Chen - Javascript engineer</li>
+				<li>Guanhong Chen - Javascript engineer</li>
 			</ul>
 
 			<h3>Technologies used</h3>
